@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "2.3.0",
   "scripts": {
-    "dev": "astro check --watch & astro dev",
+    "debug": "astro check --watch",
     "start": "astro dev",
     "build": "astro build && jampack ./dist",
     "preview": "astro preview",
