@@ -4,7 +4,7 @@ export const SITE: Site = {
   website: "",
   author: "Ali Zaidi",
   desc: "Personal website of Ali Abbas Zaidi",
-  title: "Aliz_Lair",
+  title: "Ali_Zaidi",
   ogImage: "",
   lightAndDarkMode: true,
   postPerPage: 5,
@@ -100,9 +100,9 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "Discord",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://discordapp.com/users/689717725115056153",
     linkTitle: `${SITE.title} on Discord`,
-    active: false,
+    active: true,
   },
   {
     name: "GitLab",
